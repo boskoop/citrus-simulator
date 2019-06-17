@@ -1,0 +1,5 @@
+[[changes-new]]
+= Changelog
+== Since Citrus Simulator 1.1.0
+* https://github.com/citrusframework/citrus-simulator/issues/15[#15 - Spring Boot 2 support]
+* https://github.com/citrusframework/citrus-simulator/pull/40[#40 - Feature: Scenario Mapper Chain]

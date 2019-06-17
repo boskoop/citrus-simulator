@@ -1,5 +1,5 @@
 = Citrus Simulator
-Christoph Deppisch;Martin Maher;Georgi Todorov
+The Citrus community
 :revnumber: {version}
 :revdate: {localdate}
 :sectanchors:
@@ -24,6 +24,7 @@ image:citrus-logo-small.png[citrus-logo]
 
 ifdef::basebackend-html[toc::[]]
 
+include::manual/changes-new.adoc[]
 include::manual/introduction.adoc[]
 include::manual/installation.adoc[]
 include::manual/concepts.adoc[]
