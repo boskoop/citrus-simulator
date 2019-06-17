@@ -12,7 +12,7 @@ jobs:
   include:
   - stage: build
     script:
-    - mvn --batch-mode -q -Pskip-it clean org.jacoco:jacoco-maven-plugin:prepare-agent install -Dembedded sonar:sonar -Dsonar.projectKey=citrus-simulator
+    - mvn --batch-mode -Pskip-it clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar -Dsonar.projectKey=citrus-simulator
   - stage: sample-bank-service
     script:
     - mvn -f simulator-samples/sample-bank-service/pom.xml verify
