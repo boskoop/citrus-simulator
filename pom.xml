@@ -77,8 +77,8 @@
       </roles>
     </developer>
     <developer>
-      <id>maherma</id>
-      <name>Martin Maher</name>
+      <id>svettwer</id>
+      <name>Sven Hettwer</name>
       <email>citrus-dev-l@consol.de</email>
       <organization>ConSol Software GmbH</organization>
       <organizationUrl>http://www.consol.de/</organizationUrl>
@@ -87,8 +87,18 @@
       </roles>
     </developer>
     <developer>
-      <id>joroboro</id>
-      <name>Georgi Todorov</name>
+      <id>s1hofmann</id>
+      <name>Simon Hofmann</name>
+      <email>citrus-dev-l@consol.de</email>
+      <organization>ConSol Software GmbH</organization>
+      <organizationUrl>http://www.consol.de/</organizationUrl>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>tnobody</id>
+      <name>Tim Keiner</name>
       <email>citrus-dev-l@consol.de</email>
       <organization>ConSol Software GmbH</organization>
       <organizationUrl>http://www.consol.de/</organizationUrl>
